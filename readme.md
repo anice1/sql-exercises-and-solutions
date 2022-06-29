@@ -61,4 +61,3 @@ parameter. Let this parameter be a character sequence. Evaluate if its value is 
 that retrieve either the lowest or the highest salary, respectively (using the same logic and code structure
 from Exercise 9). If the inserted value is any string value different from ‘min’ or ‘max’, let the function
 return the difference between the highest and the lowest salary of that employee.
-# sql-exercises-and-solutions
